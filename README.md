@@ -1,4 +1,4 @@
-# 2014 Keyvani and Strom
+# Keyvani and Strom (2014)
 
 All data in this repository is associated with the following paper:
 
