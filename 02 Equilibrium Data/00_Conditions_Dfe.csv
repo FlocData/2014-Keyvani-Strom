@@ -1,0 +1,9 @@
+Run,Sediment,SSC [mg/l],G [s^-1],dp [micron],dfe [micron]
+nps,80% kaolinite and 20% montmorillonite by mass,50,35,1.4,93
+ps1,80% kaolinite and 20% montmorillonite by mass,50,35,7.0,88
+ps2,80% kaolinite and 20% montmorillonite by mass,50,35,7.3,94
+ps3,80% kaolinite and 20% montmorillonite by mass,50,35,8.9,97
+ps4,80% kaolinite and 20% montmorillonite by mass,50,35,7.3,95
+ps5,80% kaolinite and 20% montmorillonite by mass,50,35,7.2,91
+ps6,80% kaolinite and 20% montmorillonite by mass,50,35,7.0,93
+ps7,80% kaolinite and 20% montmorillonite by mass,50,35,7.1,92
