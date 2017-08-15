@@ -11,6 +11,7 @@ __Study type__
 - Floc size measurement method: images of turbulent suspension
 
 __Data__
+
 The directories in this repository contain the following data:
 1. __00 Raw Data:__ contains data such as images of the experiment, suspension, or unprocessed size distributions.
 2. __01 Time Series Data:__ contains time series of floc size distribution statistics, such as D50, moving towards an equilibrium value through net growth or net breakup.
