@@ -4,6 +4,8 @@ All data in this repository is associated with the following paper:
 
 Keyvani, A. and Strom, K. (2014). Influence of cycles of high and low turbulent shear on the growth rate and equilibrium size of mud flocs. *Marine Geology*, 354(0):1-14. doi: [doi.org/10.1016/j.margeo.2014.04.010](https://doi.org/10.1016/j.margeo.2014.04.010)
 
+[![DOI](https://zenodo.org/badge/100411121.svg)](https://zenodo.org/badge/latestdoi/100411121)
+
 __Study type__
 - Location: laboratory
 - Sediment type: kaolinite and montmorillonite
